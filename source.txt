@@ -1,109 +1,224 @@
--Frame house
+Abbatoir
+Aerial lift pylon
 Airey house
 Airplane
+Airport
 aluminum siding
 American Colonial
 American Craftsman house
 American Foursquare
-apartment
+Amphitheater
+Amusement park
+Amusement Parks
 Apartment
+Apartment block
 Apartment building
 Apartment hotel
+Aqueduct
+Archive
+Arena
+Arsenal
+Art gallery
+Assembly
+Assembly rooms
+Asylum
 Aul
 Automobile
+Automobile repair shop
+Aviation control towers
 Back-to-back houses
+Bakery
 Barn
 Barndominium
 Barracks
+Barricade
+Barriers
 Basement apartment
+Basilica
+Bathhouse
 Bay-and-gable
 Beach hut
+Beauty salon
 Bed and breakfast
 Bedsit
 Bell tent
 Bender tent
+Biomass-fuelled power plant
 Bivouac sack
 Bivouac shelter
 Blanket
+Blast furnace
+Bleacher
+Blockhouse
+Block of flats
 Boarding house
+Boarding school
 Boat
+Boathouse
+Boat lift
+Bookstore
 Bothy
 Boutique hotel
+Brewery
+Brick kilns
+Bridge
 Brownstone
+Building canopies
 Bungalow
+Bunker
 Bus
+Bus shelters
 Bus station
 Bus stop
 Byre-dwelling
 California Bungalow
 Campervan
 Campsite
+Canal
+Canopy
 Cape Cod
-Cape Dutch architecture|Cape Dutch
+Cape Dutch home
 Capsule hotel
 Car
 Cardboard box (housing)
+Carport
+Car wash
 Casino hotel
 Castle
+Cathedral
 Cave
 Cell
 Chalet
 Chalet bungalow
+Chapel
 Château
 Chattel house
 Chicago
+Chicken coop
+Chimney
 Choultry
 Chum
+Church
+Cinema
+Citadel
+City hall
+Clinic
+Coke oven
+College
 Communal apartment
+Communications tower
+Community center
+Community hall
 company town
+Concert hall
 Conch house
 Condominium
 Connected farm
+Consular office
+Consulate
+Control tower
+Convention center
 Converted barn
+Cooling tower
 Cottage
 Council house
 County jail
+Courthouse
+Covered bridge
+Cow-shed
+Crane
 Creole cottage
 Cruise ship
 Dacha
+Dam
+Data centre
 Deck access
+Department store
+Distillation equipment
+Dock
 Dogtrot house
+Dolphin
 Domus
 Dormitory
+Drugstore
 Dugout
 Dumpster
+Duomo
+Duplex
 Duplex house
 Dwór
 Earth house
 Earth sheltering
+Eatery
+Electricity grid
+Embassy
 Emergency shelter
 Face-me-I-face-you
 Face-to-face
+Factories
+Factory
 Farmhouse
 Farm stay
+Fast-food restaurant
 Faux chateau
 Federal architecture
+Ferris wheel
 Ferry
+Ferry slip
+Filling station
+Film studio
+fire safety
+Fire station
+Fire temple
 Flatshare
 Flophouse
 Florida
+Floristry
+Flume
 Fly
+Folly
+Food court
+Fortification
+Forum
+Fossil-fuel power station
+Foundry
+Fractional distillation
+Fractionating column
+Fractionating towers
+-Frame house
 French Colonial
-furnace|heat
+furnace
 Gablefront house
 Gambrel
+Game Store
 garage
+Garage
+Gate
 Geestharden house
 Geodesic dome
 Georgian house
+Geothermal power
 Goahti
+Granary
 Granny flat
+Greenhouse
 Guest house
+Gurdwara
+Gym
+Hairdressers
 Hall and parlor house
 Hall house
+Handrail
+Hangar
 Hanok
+Hay barrack
+Hayloft
+Hayrack
+Headframe
+Hindu temples
 Homelessness
 Homeless shelter
+Hospice
 Hospital
 Hospitality service
 Hostal
@@ -116,12 +231,17 @@ Houseboat
 Housing cooperative
 Housing tenure
 Hut
+Hypermarket
 Igloo
 I-house
+Imambargah
 Indian vernacular architecture
+Infrastructure
 Inn
 Insula
+Internet cafe
 Izba
+Kiosk
 Kit house
 Kit houses in North America
 Kohte
@@ -131,6 +251,8 @@ Kulla
 Laneway house
 Lavvu
 Leasehold estate
+Library
+Lighthouse
 Linked house
 Loft
 Log cabin
@@ -144,59 +266,116 @@ Manor house
 Mansion
 Manufactured house
 Manufactured housing
+Marina
+Market
+Market house
+Market stall
+Martyrium
 McMansion
+Meeting house
+Metro
 Mews
 Microapartment
+Mihrab
+Mill
 Mini dorm
+Mini market
+Mining
 Minka
+Missile launch facility
+Mithraeum
 Mobile home
 Monastery
 Monolithic dome
+Monument
+Moot hall
 Moroccan riad
+Mosque
 Motel
+Movie theater
 Mudhif
 Multifamily home
+Multi-storey car park
+Museum
 New England
 Nomadic tents
+Nuclear power plant
 Nursing home
+Nursing Home
 Ocean liner
 Octagon house
+Office
+Office building
+Office_buildings
 Officetel
+Oil depot
+oil platform
 Ontario Cottage
+Opera house
+Oratory
 Orphanage
+Outhouse
+Pagoda
 Palace
 Pandal
+parking garage
+Parking garage
+Parking structures
+Parliament
 Passenger car
 Patio home
 Patio house
+Pavilion
 Pension
 Penthouse apartment
+Pharmacy
+Pier
 Pit-house
+Pizzeria
 Plank house
+Plant nursery
 Plattenbau
+Police station
 Portable building
+Post office
+Power plant
+Power station
 Prefabricated building
 Prefabricated house
 Prison
 Prison cell
 Psychiatric hospital
+Psychiatric Hospital
 Pub
 Public house
 Public housing
 Public transport
+Quarantine
 Queenslander
 Quinzhee
+Radio masts and towers
+Railroad
 Railroad apartment
+Railway station
 Ramada
 Ranch
 Ranch-style house
+rapid transit
 real estate business
 Recreational vehicle
+Refineries
+Refinery
 Refugee camp
+Renewable energy power station
 Resort
+Restaurant
+Retaining wall
 Retirement home
+Road
+Roller coaster
 Roof tent
 Rooming house
+Root cellar
 Roundhouse
 Rowhouse
 RV park
@@ -204,64 +383,97 @@ Ryokan
 Saltbox
 Sanatorium
 San Francisco, CA
+School
 Sears Catalog Home
 Semi-detached
 Shack
 Share house
+Shed
 Ship
 Shipping container
+Shop
 Shophouse
+Shopping mall
+Shops and Stores
 Shotgun house
+Shrine
 Sibley tent
 Sidesplit
+Signal box
+Silo
 Single-family detached home
 Single room occupancy
 Single Room Occupancy
+Skyscraper
 Slab hut
+Slaughterhouse
 Sleeping bag
 Sleeping car
 slum
 Snout house
 Snow cave
+Snow shed
 Sod house
 Souterrain
 Spacecraft
 Spanish Colonial
 Spanish Colonial Revival architecture
 Split level home
+Sport club
 Squatting
 Stable
+Stadium
+Stall
 Stilt house
+Storage silo
+Storage tank
+Storm cellar
 street
+Street light
+Street sign
 Studio apartment
+Sty
+Supermarket
+Surau
+Swimming pool
+Synagogue
+Tank farm
 Tarpaulin
 Tarp tent
+Taxi station
+Temple
 Tenancy
 Tent
 Tent city
 Terraced house
+Theater
 Timeshare
 Tipi
 Tong Lau
 "Toothpick Apartments"
+Tower
 Tower block
 Tower houses in the Balkans
 townhouse
 Townhouse
 Train
 Train station
+Tram
+Transmission tower
 Travel trailer
 Tree house
 Triple decker
+Triumphal arch
 Trullo
 Tudor Revival
+Tunnel
 Turbaza
-#Two decker|Two decker
+Two decker
 Tyneside flat
 Underground home
 Underground living
+Underwater habitat
 Unit
-Unit (housing)|Unit
 Upper Lusatian house
 Uthland-Frisian house
 Vacation rental
@@ -269,9 +481,19 @@ Valencia
 Vatara
 Victorian house
 Villa
+Warehouse
+Waste heat power plant
+Water tower
+Water Tower
+Water well
 Wealden hall house
+Well house
+Wet market
+Wharf
 Wigwam
 Wimpey house
 Wimpey no-fines house
+Winery
+Workshop
 Yaodong
 Yurt
