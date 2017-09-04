@@ -14,6 +14,12 @@ keys. You can get these by registering an app on twitter's app platform thing.
 Change the title of `keys_example.py` to `keys.py` and the bot will be able to
 read them from there.
 
+# Running
+This bot is intended to be run with cron, because hey why not. Just set up a
+crontab to cd into the directory you put this thing in, and run `./bot.py` to
+tweet a new place. You can even add new places to the list without stopping
+anything by just appending to `sources.txt`
+
 # Sources
 1. [list of human habitation forms](https://en.wikipedia.org/wiki/List_of_human_habitation_forms)
 1. [list of house types](https://en.wikipedia.org/wiki/List_of_house_types)

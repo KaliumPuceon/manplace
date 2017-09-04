@@ -71,6 +71,7 @@ Bus shelters
 Bus station
 Bus stop
 Byre-dwelling
+Cafe
 California Bungalow
 Campervan
 Campsite
@@ -80,12 +81,14 @@ Cape Cod
 Cape Dutch home
 Capsule hotel
 Car
+Caravan
 Cardboard box (housing)
 Carport
 Car wash
 Casino hotel
 Castle
 Cathedral
+Cave
 Cave
 Cell
 Chalet
@@ -103,6 +106,7 @@ Cinema
 Citadel
 City hall
 Clinic
+Coffin
 Coke oven
 College
 Communal apartment
@@ -132,9 +136,12 @@ Cruise ship
 Dacha
 Dam
 Data centre
-Deck access
+Deck
+Dell
+Den
 Department store
 Distillation equipment
+Ditch
 Dock
 Dogtrot house
 Dolphin
@@ -206,6 +213,7 @@ Guest house
 Gurdwara
 Gym
 Hairdressers
+Halfway house
 Hall and parlor house
 Hall house
 Handrail
@@ -250,6 +258,7 @@ Ksar
 Kulla
 Laneway house
 Lavvu
+Lean-to
 Leasehold estate
 Library
 Lighthouse
@@ -278,6 +287,7 @@ Mews
 Microapartment
 Mihrab
 Mill
+Mine
 Mini dorm
 Mini market
 Mining
@@ -290,6 +300,7 @@ Monolithic dome
 Monument
 Moot hall
 Moroccan riad
+Mortuary
 Mosque
 Motel
 Movie theater
@@ -374,6 +385,7 @@ Retirement home
 Road
 Roller coaster
 Roof tent
+Room
 Rooming house
 Root cellar
 Roundhouse
@@ -386,6 +398,7 @@ San Francisco, CA
 School
 Sears Catalog Home
 Semi-detached
+Server Room
 Shack
 Share house
 Shed
@@ -441,6 +454,7 @@ Tank farm
 Tarpaulin
 Tarp tent
 Taxi station
+Teahouse
 Temple
 Tenancy
 Tent
