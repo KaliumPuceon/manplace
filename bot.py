@@ -33,20 +33,30 @@ prefix_list = ([
 def getManPlace():
     deadfile = open("used.txt","r")
     placefile = open("source.txt","r")
+
     deadlist = deadfile.read().split("\n")
     placelist = placefile.read().split("\n")
+
     deadfile.close()
     placefile.close()
+
     check = True
     while check:
+
         choice = random.choice(placelist)
+
         if not (choice in deadlist):
+
             deadfile = open("used.txt","a")
             deadfile.write(choice+"\n")
+
+            deadfile.close()
+
             return(choice)
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
+
 twitter = tweepy.API(auth)
 
 twitter.update_status(random.choice(prefix_list)+getManPlace().lower())
