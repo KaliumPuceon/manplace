@@ -1,0 +1,149 @@
+Barracks
+Bed and breakfast
+Boarding house
+Bothy
+Bungalow
+Castle
+Cave
+Yaodong
+Chalet
+Château
+Choultry
+Condominium
+Converted barn
+Cottage
+County jail
+Domus
+Dormitory
+Dugout
+Earth house
+Earth sheltering
+Farm stay
+Flophouse
+Guest house
+Hospital
+Hospitality service
+Hostal
+Hostel
+Hotel
+Apartment hotel
+Boutique hotel
+Capsule hotel
+Casino hotel
+Love hotel
+House
+Housebarn
+Housing tenure
+Apartment
+Bedsit
+Communal apartment
+Council house
+Flatshare
+Public housing
+Share house
+Single room occupancy
+Leasehold estate
+Tenancy
+Hut
+Slab hut
+Inn
+Insula
+Log cabin
+Log house
+Longhouse
+Mansion
+Mini dorm
+Monastery
+Moroccan riad
+Motel
+Nursing home
+Orphanage
+Palace
+Pension
+Pit-house
+Prison
+Prison cell
+Cell
+Psychiatric hospital
+Pub
+Public house
+Inn
+Resort
+Retirement home
+Roundhouse
+Ryokan
+Sanatorium
+Sod house
+Stilt house
+Timeshare
+Train station
+Tree house
+Turbaza
+Underground living
+Vacation rental
+Villa
+Beach hut
+Bivouac shelter
+Emergency shelter
+Igloo
+Mobile home
+Ramada
+Snow cave
+Tent city
+Quinzhee
+Airplane
+Automobile
+Bender tent
+Boat
+Bus
+Campervan
+Campsite
+Car
+Ferry
+Hot air balloon
+Houseboat
+Mobile home
+Portable building
+Public transport
+Recreational vehicle
+RV park
+Ship
+Cruise ship
+Ocean liner
+Spacecraft
+Tent
+Train
+Passenger car
+Sleeping car
+Travel trailer
+Bell tent
+Chum
+Fly
+Goahti
+Kohte
+Lavvu
+Loue
+Nomadic tents
+Pandal
+Sibley tent
+Tarp tent
+Tipi
+Wigwam
+Yurt
+Bivouac sack
+Blanket
+Roof tent
+Sleeping bag
+Tarp tent
+Tarpaulin
+Barn
+Bus station
+Bus stop
+Cardboard box (housing)
+Dumpster
+Homeless shelter
+Refugee camp
+Shipping container
+Homelessness
+Squatting
+Stable
