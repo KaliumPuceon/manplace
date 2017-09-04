@@ -1,168 +1,213 @@
-[[Airport]]
-* [[Barracks]], may also be mobile, a [[cantonment]] or [[military camp]]
-* [[Bed and breakfast]], or B&B ([[French language|French]]: ''Chambre d'hôtes'')
-* [[Boarding house]]
-* [[Bothy]]
-* [[Bungalow]]
-* [[Castle]]
-* [[Cave]]
-** [[Yaodong]]
-* [[Chalet]]
-* [[Château]]
-* [[Choultry]]
-* [[Condominium]]
-* [[Converted barn]]
-* [[Cottage]]
-* [[County jail]]
-* [[Domus]]
-* [[Dormitory]]
-* [[Dugout (shelter)|Dugout]]
-* [[Earth house]]
-* [[Earth sheltering]]
-* [[Farm stay]]
-* [[Flophouse]] 
-* [[Guest house]] 
-* [[Hospital]]
-* [[Hospitality service]], or hospitality exchange
-* [[Hostal]]
-* [[Hostel]]
-* [[Hotel]]
-** [[Apartment hotel]]
-** [[Boutique hotel]]
-** [[Capsule hotel]]
-** [[Casino hotel]]
-** [[Love hotel]] 
-* [[House]], or [[home]]
-* [[Housebarn]]
-* [[Housing tenure]] or rented accommodation
-** [[Apartment]]
-** [[Bedsit]]
-** [[Communal apartment]]
-** [[Council house]]
-** [[Flatshare]], also called ''shared housing'' or ''shared accommodation''
-** [[Public housing]]
-** [[Share house]]
-** [[Single room occupancy]]
-** [[Leasehold estate|Tenancy]]
-* [[Hut (dwelling)|Hut]]
-** [[Slab hut]]
-* [[Inn]]
-* [[Insula (building)|Insula]]
-* [[Log cabin]]
-* [[Log house]]
-* [[Longhouse]]
-* [[Mansion]]
-* [[Mini dorm]]
-* [[Monastery]]
-* [[Moroccan riad]]
-* [[Motel]]
-* [[Nursing home]]
-* [[Orphanage]]
-* [[Palace]]
-* [[Pension (lodging)|Pension]]
-* [[Pit-house]]
-* [[Prison]]
-** [[Prison cell|Cell]]
-* [[Psychiatric hospital]]
-* [[Pub|Public house]]
-** [[Pub#Inns|Inn]]
-* [[Resort]]
-* [[Retirement home]]
-* [[Roundhouse (dwelling)|Roundhouse]]
-* [[Ryokan (Japanese inn)|Ryokan]], a traditional Japanese inn
-* [[Sanatorium]]
-* [[Sod house]]
-* [[Stilt house]]
-* [[Timeshare]]
-* [[Train station]]
-* [[Tree house]]
-* [[Turbaza]]
-* [[Underground living]]
-* [[Vacation rental]]
-* [[Villa]]
-{{div col end}}
+*'''[[A-Frame house|A-frame]]''': so-called because the steep roofline, reaching to or near the ground, makes the gable ends resemble a large '''A'''.
+*'''Addison house''': a type of low-cost house with metal floors and concrete block cavity walls, mostly built in the United Kingdom and in Ireland during 1920 through 1921 to provide housing for soldiers, sailors, and airmen who had returned home from the First World War.
+*'''[[Airey house]]''': a type of low-cost house that was developed in the United Kingdom during in the 1940s by Sir [[Edwin Airey]], and then widely constructed between 1945 and 1960 to provide housing for soldiers, sailors, and [[airman|airmen]] who had returned home from [[World War II]]. These are recognizable by their [[precast concrete]] columns and by their walls made of precast "ship-lap" concrete panels.<ref name=scdc6172>[http://www.scambs.gov.uk/admin/documents/retrieve.asp?pk_document=906084] {{dead link|date=May 2016}}</ref>
+*'''[[American Colonial]]''': a traditional style of house that originated in the [[East Coast of the United States|East Coast]] of the United States.
+**'''Georgian Colonial'''
+**'''German Colonial'''
+**'''[[Hall and parlor house]]'''
+**'''New England Colonial'''
+**'''[[Spanish Colonial]]'''
+**'''[[French Colonial]]'''
+*'''[[American Craftsman|American Craftsman house]]'''
+*'''[[American Foursquare]]''' house
+*'''Assam-type House''': a house commonly found in the northeastern states of India.<ref>{{cite web|url=http://www.world-housing.net/WHEReports/wh100172.pdf |format=PDF |title=HOUSING REPORT : Assam-type House |website=World-housing.net |accessdate=2016-05-20}}</ref>
+*'''Barraca''': a traditional style of house originated in [[Valencia]], Spain. Is a historical farm house from the 12th century BC to the 19th century AD around said city.
+*'''[[Barndominium]]''': a type of house that includes living space attached to either a workshop or a barn, typically for [[horse]]s, or a large vehicle such as a [[recreational vehicle]] or a large recreational [[boat]].
+*'''[[Bay-and-gable]]''': a type of house typically found in the older areas of [[Toronto]].
+*'''[[Bungalow]]''': any simple, single-storey house without any basement.
+*'''[[California Bungalow]]'''
+*'''[[Cape Cod (house)|Cape Cod]]''': a popular design that originated in the coastal area of [[New England]], especially in eastern [[Massachusetts]].
+*'''[[Cape Dutch architecture|Cape Dutch]]:''' popular in the [[Western Cape]], South Africa, region.
+*'''[[Castle]]''': primarily a defensive structure/dwelling built during the Dark Ages and the [[Middle Ages]], and also during the 18th century and the 19th century.
+*'''Cave dwelling, Chinese''': called a [[Yaodong]] and of two types, 1) built into rock on the side of a hill or 2) earth sheltered with a courtyard.
+*'''[[Chalet bungalow]]''': popular in the [[United Kingdom]], a combination of a house and a bungalow.
+*'''[[Chattel house]]''': a small wooden house occupied by [[working class|working-class]] people on [[Barbados]]. Originally relocatable; personal chattel (property) rather than fixed [[real property]].
+*'''[[Conch house]]''': a vernacular style in [[Key West, Florida|Key West]] and [[Miami]], derived from the Bahamian clapboard house.
+*'''[[Converted barn]]''': an old barn converted into a house or other use.
+*'''[[Cottage]]''': usually a small country dwelling, although [[weavers' cottage]]s are three-storied townhouses with the top floor reserved for the working quarters.
+*'''[[Creole cottage]]''': a type of house native to the [[Gulf Coast of the United States]], roughly corresponding to the location of the former [[colony|colonial]] settlements of the [[French people|French]] in [[Louisiana (New France)|Louisiana]], [[Mississippi|Southern Mississippi]], and [[Alabama|Lower Alabama]].
+*'''Cracker house''': a style of wood-framework house built rather widely in the 19th century in [[Florida]] and Southern [[Georgia (U.S. state)|Georgia]]. Note that the former [[Atlanta Crackers]] pro baseball team was named because of the many "crackers" who lived in Georgia decades ago.
+*'''[[Dacha]]''': cottage-type house in Russia and former union republics of the Soviet Union
+*'''[[Dogtrot house]]''': divided house with an open, roofed [[breezeway]] between the two sections.
+*'''[[Dwór (manor house)]]''': the most iconic type of house in pre-communist Poland. 
+*'''[[Earth sheltering|Earth sheltered]]''': houses using [[soil|dirt]] ("earth") piled against it exterior walls for thermal mass, which reduces heat flow into or out of the house, maintaining a more steady indoor [[temperature]].
+* '''Eyebrow house''': A style of house found in Key West, Florida in which the roof overhangs the windows reducing the view, but providing more shade.
+* '''[[Farmhouse]]''': the main residence house on a [[farm]], '''''or''''' a house built with the same type of styling and located anywhere.
+* '''[[Faux chateau]]''' (originating in the 1980s): a notably inflated in size and price American [[suburban]] house with ''non-contextual'' French [[Architecture of Provence|Provençal architectural]] elements.
+* '''[[Federal architecture|Federal]]
+* '''Frutighaus''': a farmhouse type in the Frutigland region of Switzerland.
+* '''[[Gablefront house]]''' (or a ''Gablefront cottage''): a generic house type that has a [[gable]] roof that faces its [[street]] or [[Avenue (landscape)|avenue]].<ref>{{cite web|url=http://www.ridgehistoricalsociety.org/Arch_Styles/19th_Century.html |title=Archived copy |accessdate=August 5, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080704165918/http://www.ridgehistoricalsociety.org/Arch_Styles/19th_Century.html |archivedate=July 4, 2008 }}</ref> See the novel ''[[The House of Seven Gables]]'', by the American author [[Nathaniel Hawthorne]].
+* '''[[Gambrel]]''': including variants like ''Dutch Gambrel''.
+* '''[[Geodesic dome]]''': a rugged domed design, using strong metal components, that was pioneered by the [[architect]] [[Buckminster Fuller]] in the United States in the mid-20th century.
+* '''[[Georgian Architecture|Georgian house]]''': built with the style of [[Georgian architecture]] that became popular during the time of [[George I of Great Britain|King George I]] through [[George IV of the United Kingdom|King George IV]] and [[William IV of the United Kingdom|King William IV]] of the [[United Kingdom]].
+* '''[[Geestharden house]]''': one of the three basic house types in [[Schleswig-Holstein]] region of Germany
+* '''[[Hall house]]''': a medieval house, usually [[Timber framing|timber-framed]], in which the principal room was a hall as high as the building, with the smoke from a central hearth rising through the hall.
+* '''[[Hanok]]''': a traditional Korean house.
+* '''Hawksley BL8 bungalow''': an [[aluminum siding]]-clad timber-framed house built in [[United Kingdom|Great Britain]] mostly during the 1950s as housing for soldiers, sailors, and [[airmen]] who had returned home from [[World War II]].<ref name=scdc6172 />
+* '''[[I-house]]''': a traditional British folk house,{{citation needed|date=January 2016}} which became popular in the [[Middle Atlantic]] and the [[Southern United States|Southern American Colonies]] before the beginning of the [[American Revolutionary War]].<ref>{{cite web|url=http://www.westcentralneighborhood.org/hgt2001.htm |title=West Central Neighborhood Association of Fort Wayne |website=Westcentralneighborhood.org |date= |accessdate=2016-05-20}}</ref>
+* '''[[Igloo]]''': an [[Inuit]], [[Yupik peoples|Yup'ik]], and [[Aleut]] seasonal or emergency shelter that was made of knife-sliced blocks of packed snow and/or ice in the [[Arctic]] regions of [[Alaska]], Canada, [[Greenland]], and [[Siberia]]n Russia.
+* '''[[Indian vernacular architecture|Indian vernacular]]'''
+* '''[[Izba]]''': a traditional Russian wooden country house.
+* '''[[Kit houses in North America|Kit house]]''': a type of pre-fabricated house made of pre-cut, numbered pieces of lumber.
+* '''[[Konak (residence)|Konak]]''': a type of [[Turkish people|Turkish]] house that was widely built during the time of the [[Ottoman Empire]] in [[Turkey]], northern [[Greece]], [[Albania]], [[Serbia]], [[Romania]], [[Bulgaria]], [[Syria]], [[Lebanon]], [[Palestine (region)|Palestine]], [[Jordan]], northern [[Iraq]], [[Republic of Macedonia|Macedonia]] etc.
+* '''[[Tower houses in the Balkans|Kulla]]''': Albanian house in [[Albania]], [[province of Kosovo and Metohia]], [[Republic of Macedonia|Macedonia]] etc.
+* '''[[Laneway house]]''': a type of Canadian house that is constructed behind a normal single-family home that opens onto a [[back lane]].
+* '''Link-detached''': adjacent detached properties that do not have a party wall, but which are linked by their garages - and so presenting a single frontage to their [[street]] or avenue.
+* '''[[Linked house]]s''': "row-houses" or "semi-detached houses" that are linked structurally only in their foundations. Above ground, these houses appear to be detached houses. Linking up their foundations cuts the cost of constructing them.
+* '''[[Log home]], [[Log cabin]]''': a house built by American, Canadian, and Russian [[frontiersmen]] and their families which was built of solid, unsquared [[wood|wooden log]]s and later as a well crafted style of dwelling.
+* '''[[Lustron house]]''': a type of [[prefabricated house]].
+* '''[[Manor house]]''': a large [[medieval]] [[country house]], or one built later of a similar design, which used to be the primary dwelling of the [[nobleman]] and his family, and also the administrative hub of a [[Manorialism|Feudal manor]], and which was also the lowest unit of land organization and use in the [[feudal system]] during the [[Dark Ages (historiography)|Dark Ages]] and the [[Middle Ages]] in Europe: in other words, before the ride of the [[Renaissance]] and the [[Age of Enlightenment]] both of which caused the fall of the feudal system and [[serfdom]], except in Russia, where the [[serf]]s and [[vassals]] were not set free until the second half of the 19th century (the 1850s through the 1890s).
+* '''[[Mansion]]''': a quite large and usually luxurious detached house. See also: ''Manor house'', and ''Georgian House'' above
+* '''Maisonette''': a flat or [[apartment]] in England, that occupies two floors of a building, and so typically has internal [[stairs]].
+* '''[[McMansion]]''': a formulaic, inflated suburban house with references to historical styles of architecture, such as [[Georgian architecture]] and the [[Manor House]] mentioned above.
+* '''[[Manufactured housing|Manufactured house]]''': a [[prefabrication|prefabricated house]] that is assembled on the permanent site on which it will sit.
+* '''[[Mews]] property''': an [[urban area|urban]] [[stable]]-block that has often been converted into residential properties. The houses may have been converted into ground floor garages with a small flat above which used to house the [[Hostler|ostler]] or just a garage with no living quarters.
+* '''Microhouse''': a dwelling that fulfills all the requirements of habitation (shelter, sleep, cooking, heating, toilet) in a very compact space. These are quite common in densely populated Asian countries such as Japan, Hong Kong, and Singapore.
+* '''[[Monolithic dome]]''': a structure cast in one piece, generally made out of [[shotcrete]] inside an airform.
+* '''[[Microapartment]]''': rather common in the same countries where microhouses (above) are popular. These small single-room dwellings contain a kitchen, a bathroom, a sleeping area, etc., in one place, usually in a multistorey building.
+* '''[[Minka]]''': A general term for traditional houses in Japan.
 
-==Semi-permanent==
-{{div col}}
-* [[Beach hut]]
-* [[Bivouac shelter]]
-* [[Emergency shelter]]
-* [[Igloo]]
-* [[Mobile home]]
-* [[Ramada (shelter)|Ramada]]
-* [[Snow cave]]
-* [[Tent city]]
-* [[Quinzhee]]
-{{div col end}}
+[[Image:Iraqi mudhif interior.jpg|thumb|250px|The interior of an Iraqi mudhif]]
+* '''[[Mudhif]]''': a traditional reed house made by the [[Madan (people)|Madan]] people of Iraq.
+* '''[[Octagon house]]''': a house of symmetrical octagonal floor plan, popularized briefly during the 19th century by [[Orson Squire Fowler]].
+* '''[[Ontario Cottage]]''': a one- or one-and-a-half-storey house with a symmetrical rectangular floor plan and a gable centred over the door, popular in small-town Ontario during the 19th century.
+* '''[[Patio home|Patio house]]'''
+* '''[[Pit-house]]''': a prehistoric house type used on many continents and of many styles, partially sunken into the ground.
+* '''[[Plank house]]''': a general term for houses built using planks in a variety of ways, this article as of 2012 only discusses Native American plank houses.
+* '''Pole house''': a timber house in which a set of vertical poles carry the load of all of its suspended floors and roof, allowing all of its walls to be non-load-bearing.
+* '''[[Prefabricated building|Prefabricated house]]''': a house whose main structural sections were manufactured in a [[factory]], and then transported to their final building site to be assembled upon a [[concrete]] foundation, which had to be poured locally.
+* '''[[Queenslander (architecture)|Queenslander]]:''' a house most commonly built in the [[tropical region|tropical area]]s of [[Australia]], especially in the [[Queensland|State of Queensland]] and in the [[Northern Territory]]. These are constructed on top of high concrete [[pier]]s or else upon the stumps of felled trees in order to allow cooling breezes to flow beneath them, and often they have a wide [[veranda]], or porch, that runs partially or completely the way around the house. See the ''Cracker House'', above, which was quite similar to this one.
+* '''[[Ranch-style house|Ranch]]:''' a rambling single-storey house, often containing a [[Garage (house)|garage]] and sometimes constructed over a [[basement]].
+* '''[[Roundhouse (dwelling)|Roundhouse]]''': a house built with a circular plan. This kind was constructed in [[Western Europe]] before the [[Ancient Rome|Conquest by the Roman legions]]. After this conquest, houses were usually built in the Roman style that came from Italy.
+* '''[[Saltbox]]''': a wooden house that was widespread during [[Colonial Times]] in [[New England]].
+* '''[[Split level home|Split-level house]]''': a design of house that was commonly built during the 1950s and 1960s. It has two nearly equal sections that are located on two different levels, with a short stairway in the corridor connecting them. This kind of house is quite suitable for building on slanted or hilly land.
+* '''"[[Sears Catalog Home]]"''': an owner-built "kit" houses that were sold by the [[Sears, Roebuck and Co.]] corporation via catalog orders from 1906 to 1940.
+* '''[[Shack]]''': a small, usually rundown, wooden building.
+* '''[[Shotgun house]]''': a style of house that was initially popular in [[New Orleans]] starting around 1830, and spread from there to other urban areas throughout the Southern U.S. Its peak period of popularity ran from the [[American Civil War|Civil War]] to the [[Great Depression in the United States|Great Depression]]. This house typically follows the structure of living room, bedrooms, then the bathroom, and kitchen as the last room of the house. The reason for the name is because it all sits in one straight line from front to back.<ref>{{cite web|url=http://www.gnocdc.org/tertiary/shotgun.html |title=Shotgun Houses |website=Gnocdc.org |date= |accessdate=2016-05-20}}</ref>
+* '''[[Single-family detached home]]''': any free-standing house that is structurally separated from its neighboring houses, usually separated by open land, making it distinctive from such dwellings as [[duplex house|duplex]]es, [[townhouse]]s, and [[condominium]]s.
+* '''[[Souterrain]]''': an earthen dwelling typically deriving from [[Neolithic Age]] or [[Bronze Age]] times.
+* '''[[Spanish Colonial Revival architecture]]''': Based on the Spanish Colonial architecture from the Spanish colonization of the Americas, the Spanish Colonial Revival style updated these forms and detailing for a new century and culture.
+* '''[[Stilt house]]s''' or '''Pile dwellings''': houses raised on stilts over the surface of the soil or a body of water.
+* '''[[Snout house]]''': a house with the garage door being the closest part of the dwelling to the street.
+* '''Splits'''
+** '''Backsplit''': multi-level house that appears as a bungalow from the front elevation.
+** '''Frontsplit''': multi-level house that appears as a two-storey house in front and a bungalow in the back. It is the opposite of a backsplit and is a rare configuration.
+** '''[[Sidesplit]]''': multi-level house where the different levels are visible from the front elevation view.
+* '''Storeybook houses''': 1920s houses inspired by Hollywood set design.
+* '''[[Tipi]]'''
+* '''[[Tree house]]''': a house built among the branches or around the trunk of one or more mature trees and does not rest on the ground.
+* '''[[Trullo]]''': a traditional Apulian stone dwelling with conical roof.
+* '''[[Tudor Revival architecture]]''': modern variants of [[Tudor architecture]].
+* '''Tuscan'''
+* '''Umgebinde''' also known as [[Upper Lusatian house]]<nowiki/>a unique type of combined log and timber frame construction in Germany-Czech Republic-Poland region.
+* '''[[Underground home]]''': a dwelling dug and constructed underground.
+* '''[[Unit (housing)|Unit]]''': a type of [[medium-density housing]] that is usually found in Australia and New Zealand.
+* '''Unity house:''' a type of low-cost dwelling built in the United Kingdom during the 1940s and 1950s. These contain walls made of stacked concrete panels between concrete pillars. About 19,000 of these houses were constructed in the UK.<ref name=scdc6172 />
+* '''[[Uthland-Frisian house]]:''' a sub type of [[Geestharden house]] of northwest Germany and Denmark
+* '''Vernacular house''': house built to local style without academically trained architects.
 
-==Mobile==
-{{div col}}
-* [[Airplane]]
-* [[Automobile]]
-* [[Bender tent]]
-* [[Boat]]
-* [[Bus]]
-* [[Campervan]]
-* [[Campsite]]
-* [[Car]]
-* [[Ferry]]
-* [[Hot air balloon]]
-* [[Houseboat]], including float houses
-* [[Mobile home]]
-* [[Portable building]]
-* [[Public_transport#Sleeping|Public transport]]
-* [[Recreational vehicle]]
-* [[RV park]]
-* [[Ship]]
-** [[Cruise ship]]
-** [[Ocean liner]]
-* [[Spacecraft]]
-* [[Tent]]
-* [[Train]]
-** [[Passenger car (rail)|Passenger car]], also called a train carriage
-** [[Sleeping car]]
-* [[Travel trailer]]
-{{div col end}}
+[[Image:Gingerbread House Essex CT.jpg|thumb|250px|Example of an early Victorian "Gingerbread House" in the USA, built in 1855.]]
 
-===Traditional tent types===
-{{div col}}
-*[[Bell tent]]
-*[[Chum (tent)|Chum]]
-*[[Fly (tent)|Fly]]
-*[[Goahti]]
-*[[Kohte]]
-*[[Lavvu]]
-*[[Loue (tent)|Loue]]
-*[[Nomadic tents]]
-*[[Pandal]]
-*[[Sibley tent]]
-*[[Tarp tent]]
-*[[Tipi]]
-*[[Wigwam]]
-*[[Yurt]]
-{{div col end}}
+* '''[[Victorian house]]'''
+* '''[[Villa]]''': originally an upper-class country house, though since its origins in [[Roman Republic|Roman]] times the idea and function of a villa has evolved considerably.
+* '''[[Wealden hall house]]''': a type of vernacular medieval [[Timber framing|timber-framed]] [[yeoman]]'s [[hall house]] traditional in the south east of England.
+* '''[[Wimpey no-fines house|Wimpey house]]''': a low-cost house built in the UK from the 1940s onwards. The walls are of no-fines concrete. About 300,000 were constructed.<ref name=scdc6172 />
+* '''[[Yaodong]]''': a [[dugout (shelter)|dugout]] used as an [[House|abode]] or shelter in northern [[China]], especially on the [[Loess Plateau]].
+* '''[[Yurt]]''': a nomadic house of [[Central Asia]]
 
-===Light-weight materials===
-{{div col}}
-*[[Bivouac sack]]
-*[[Blanket]]
-*[[Roof tent]]
-*[[Sleeping bag]]
-*[[Tarp tent]]
-*[[Tarpaulin]]
-{{div col end}}
+== Semi-detached dwellings ==
+{{main article|Semi-detached}}
 
-==Homelessness==
-{{div col}}
-*[[Barn]]
-*[[Bus station]]
-*[[Bus stop]]
-*[[Cardboard box#Housing and furniture|Cardboard box (housing)]]
-*[[Dumpster]]
-*[[Homeless shelter]]
-*[[Refugee camp]]
-*[[Shipping container]]
-*[[Homelessness|Sleeping rough]]
-*[[Squatting]]
-*[[Stable]]
-{{div col end}}
+* '''[[Council house]]''': in United Kingdom and Ireland. [[Social housing]] built by the local authority, normally part of a council estate, for rental to low-income families. See also [[Council flat]].
+* '''[[Duplex house]]''': commonly refers to two separate [[House|residences]], attached side-by-side, but the term is sometimes used to mean stacked apartments on two different floors (particularly in urban areas such as New York and San Francisco). (See [[#Two decker|Two decker]]) The duplex house often looks like either two [[house]]s put together, or as a large single home, and both legally and structurally, literally shares a wall between halves. The duplex home can appear as a single townhouse section with two different entrances, though the occasional duplex with a shared common entrance and entry hall have been constructed. The jargon terms "triplex" and "four-plex" are contrived names that refer to similar structures with three or four housing units, or floors if referring to apartments, and again the characteristic sharing of [[Load-bearing wall|structural walls]], as are the [[#Townhouse|townhouse]] and [[six pack (house)|six pack]] forms that adapted the savings in materials and costs of a shared load bearing wall.
+{{anchor|Two family home|two-family house}}
+* '''Two-family home''' or '''two-family house''': the generic American [[real estate business]] jargon for a small apartment house or a [[duplex house]] that contain two dwelling units. In advertisements, "two-family home" is the generally used jargon.
+* '''[[#Two decker|Two decker]]''' (A Double decker building plan): since real-estate advertising generally specifies correctly whether the two-family home is a [[duplex (building)|duplex-house type]] these are usually more desirable for both rentals or purchases.
+* '''[[Semi-detached]]:''' two houses joined together; compare ''[[duplex (building)|duplex]]''.
+
+== Attached single-unit housing ==
+* '''[[Byre-dwelling]]''': A farmhouse with people and livestock under one roof.
+* '''[[Connected farm]]''': A type of farmhouse common in New England.
+* '''[[Housebarn]]''': A combined house and barn, see article for many types.
+* '''[[Longhouse]]''': A historical house type typically for family groups or as a housebarn.
+
+== Attached multi-unit housing ==
+{{main article|Multi-family residential}}
+
+Specific terms under various American federal, state, or local laws dealing with fair housing, truth in advertising, and so forth, have been prescribed and engender specific legal meanings. For example, in American housing codes, all "apartments" must contain a kitchen, bathing facilities, and a sleeping area, or else that term may '''''not''''' be used. This generates various differences within the English-speaking world, and the terms such as "single-family", "two-family", or "three-family" building, residence, house, home, or property can be generic and thus convey little or no building plan (style of building) information. Such terminology is most common in advertising and real-estate markets that offer leasing of such units, or sales of such buildings.
+
+* '''[[Apartment]]:''' a relatively self-contained housing unit in a building which is often rented out to one person or a family, or two or more people sharing a lease in a partnership, for their exclusive use. Sometimes called a ''flat'' or ''digs'' (slang). Some locales have legal definitions of what constitutes an apartment. In some locations, "apartment" denotes a building that was built specifically for such units, whereas "flat" denotes a unit in a building that had been originally built as a single-family house, but later on subdivided into some multi-unit house type.<ref>{{cite web|url=http://www.apartmentchicagoweb.com |title=Archived copy |accessdate=February 7, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071012160800/http://apartmentchicagoweb.com/ |archivedate=October 12, 2007 }}</ref>
+* '''[[Apartment building]]''', '''Block of flats:''' a multi-unit dwelling made up of several (generally four or more) apartments. Contrast this with the two-family house and the three-family dwelling.
+* '''[[Aul]]:''' a type of fortified village found throughout the [[Caucasus Mountains]], especially in [[Dagestan]].
+* '''[[Barracks]]:''' a type of military housing, which used to connoting a large ''"open bay"'' with rows of bunk beds and attached [[bathroom]] facilities, but during the most recent several decades for the American [[U.S. Department of Defense|Armed Forces]] most of the new housing units for unmarried servicemen have been constructed with a dormitory-style layout housing two to four servicemembers. This dormitory-styling providing additional privacy has been found to promote the retention of trained personnel in the all-volunteer [[Armed Forces of the United States]].
+* '''[[Basement apartment]]'''
+* '''[[Brownstone]]:''' a [[New York City]] term for a rowhouse: see [[rowhouse]].
+* '''[[Bedsit]]''': A British expression (short for bed-sitting room) for a single-roomed dwelling in a sub-divided larger house. The standard type contains a kitchenette or basic cooking facilities in a combined bedroom/living area, with a separate bathroom and lavatory shared between a number of rooms. Once common in older Victorian properties in British cities, they are less frequently found since the 1980s as a result of tenancy reforms, property prices and renovation grants that favour the refurbishment of such properties into self-contained flats for leasehold sale.
+* '''[[Choultry]]:''' a South-Indian Hindu-[[Caravanserai]]
+* '''Close:''' Term used in Glasgow for high density [[slum]] housing built 1800-1870. Tenements usually 3 or 4 stories, terraced, back-to-back, around a short cul-de-sac.<ref>{{cite web|url=http://special.lib.gla.ac.uk/exhibns/month/Mar2006.html |title=The Old Closes and Streets of Glasgow |publisher=Special.lib.gla.ac.uk |date=1905-07-19 |accessdate=2016-05-16}}</ref>
+* '''Cluster house:''' an older form of the '''Q-type house''' (see below)<ref>{{cite web|url=http://thesaurus.english-heritage.org.uk/thesaurus_term.asp?thes_no=1&term_no=91523 |title=English Heritage Online thesauruswebsite=Thesaurus.english-heritage.org.uk |date= |accessdate=2016-05-20}}</ref>
+* '''[[Condominium]]:''' a form of ownership with individual apartments for everyone, and co-ownership (by percentages) of all of the common areas, such as corridors, hallways, stairways, lobbies, recreation rooms, porches, rooftops, and any outdoor areas of the grounds of the buildings.
+* '''Court:''' High density slum housing built in the UK, 1800-1870. Two or more stories, terraced, back-to-back, around a short alley at right angles to the main street. Once common in cities like Liverpool<ref>{{cite web|url=http://www.discover-liverpool.com/24/section.aspx/3 |title=Local History Articles |publisher=Discover Liverpool |date= |accessdate=2016-05-16}}</ref> and Leeds.
+* '''[[Deck access]]''': a block of "flats" which are accessed from a walkway that is open to the elements.
+* '''[[Face-me-I-face-you|Face-to-face]]''': a low cost housing in [[Nigeria]], with a group of one or two-room [[apartment]]s having their entrances facing each other, and the bathroom(s), toilet(s) and kitchen spaces usually shared.<ref>{{cite book|title=Newswatch |volume=14 |issue=1-14 |page=10 |publisher=Newswatch Communications Ltd. |year=1991}}</ref>
+* '''Flat:''' In Great Britain and Ireland, this means exactly the same as an "apartment". In and around [[San Francisco, CA|San Francisco, Calif.]], this term means an apartment that takes up an entire floor of a large house, usually one that has been converted from an older [[Victorian architecture|Victorian house]].
+* '''2-Flat''', '''3-Flat''', and '''4-Flat''' houses: Houses or buildings with 2, 3, or 4 flats, respectively, especially when each of the flats takes up one entire floor of the house. There is a common stairway in the front and often in the back providing access to all the flats. 2-Flats and sometimes 3-flats are common in certain older neighborhoods.
+* '''Four Plus One:''' an apartment building consisting of four stories above a parking lot. The four floors containing the apartment units are of wood-frame and masonry construction. It was particularly popular in [[Chicago]] during the 1960s and 1970s, especially on the city's north side.<ref>{{cite web|url=http://forgottenchicago.com/features/defining-the-four-plus-one/ |title=Defining the Four Plus One &#124; Forgotten Chicago &#124; History, Architecture, and Infrastructure |publisher=Forgotten Chicago |date=2009-01-27 |accessdate=2016-05-20}}</ref>
+* '''Garage-apartment:''' an apartment over a garage; if the [[garage (house)|garage]] is attached, the apartment will have a separate entrance from the main house.
+* '''Garalow:''' a portmanteau word "garage" + "bungalow"; similar to a garage-apartment, but with the apartment and garage at the same level.
+* '''Garden apartment:''' a building style usually characterized by two story, semi-detached buildings, each floor being a separate apartment.
+* '''Garden flat:''' a flat which is at garden (ground) level in a multilevel house or apartment building, especially in the case of Georgian and Victorian terraced housing which has been sub-divided into separate dwellings.
+* '''[[Housing cooperative]]''' (or '''Co-op'''): a form of ownership in which a non-profit corporation owns the entire apartment building or development and residents own shares in the corporation that correspond to their apartment and a percentage of common areas. In Australia this corresponds with a "company title" apartment.
+* '''Housing project:''' a North American term for government-owned housing for low-income tenants (aka '''[[Public housing]]''' or '''[[Social housing]]''').
+* '''Live Work:''' a townhouse / row house having a retail, office or workshop on the ground floor with living premises of the building proprietor and occupier (the one person) of the ground floor commercial space above e.g. like the traditional high street Victorian grocer. Normally with fire rated separation.
+* '''[[Ksar]]:''' a [[village]] consisting of generally attached houses, widespread among the [[oasis]] populations of the [[Maghreb]] (northern [[Africa]])
+* '''[[Loft]]''' or '''[[warehouse conversion]]''' can be an apartment building wherein part of the unit, usually consisting of the bedroom(s) and/or a second bedroom level bath is sub-divided vertically within the structurally tall bay between the structural floors of a former factory or warehouse building. The lofts created in such are locally supported by [[column]]s and [[bearing wall]]s and not part of the overall original load bearing structure.
+* '''Maisonette:''' an apartment / flat on two levels with internal stairs, or which has its own entrance at street level.
+* '''Mess:''' a building or flat with single bedroom per tenant and shared facilities like toilets and kitchens. These are popular with students, bachelors or low wage earners in the Indian subcontinent. It is similar to the bedsit in the UK. Some variants include multiple tenants per bedroom and inclusion of a centralized maid service or cooked meals with tenancy.
+* '''[[Granny flat|Mother-in-law apartment]]:''' small apartment either at the back, in the basement, or on an upper level subdivision of the main house, usually with a separate entrance (also known as a "[[Granny flat]]" in the [[United Kingdom|UK]], [[Australia]] [[New Zealand]] and [[South Africa]]). If it is a separate structure from the main house, it is called a 'granny cottage' or a 'doddy house'. Such '''Secondary suites''' are often efficiency or two room apartments but always have kitchen facilities (which is usually a legal requirement of any apartment).
+* '''[[Officetel]]:''' small apartment providing a combined work and living area in one place, especially in South Korea.
+* '''[[Penthouse apartment|Penthouse]]:''' the top floor of multi-story building
+* '''[[Plattenbau]]''' ([[German Democratic Republic|East German]]) / '''[[Panelák]]''' ([[Czech Republic|Czech]], [[Slovakia|Slovak]]): a communist-era tower block that is made of slabs of concrete put together.
+* '''Q-type:''' [[townhouse]] built mainly in housing estates in the UK beginning in the late 20th century. The houses are arranged in blocks of four with each house at a corner of the block. Similar to the earlier '''cluster house''' (see above).
+* '''[[Railroad apartment]]''' (or '''railroad flat'''): a type of apartment that is in a building built on a very narrow lot (usually about as wide as a [[railroad car]], or [[Pullman car]] sections thereof).
+* '''[[Rooming house]]:''' a type of [[Single Room Occupancy]] building where most washing, kitchen and laundry facilities are shared between residents, which may also share a common suite of living rooms and dining room, with or without board arrangements. When board is provided (no longer common), a common dining time and schedule is imposed by the landlord who in such cases also serves as an [[innkeeper]] of sorts. In Australia and the United States, any housing accommodation with 4 or more bedrooms can be regarded as a rooming house if each bedroom is subject to individual tenancy agreements. In the U.S., rooming house lease agreements typically run for very short periods, usually week to week, or a few days at a time. Transient housing arrangements for longer term tenancies are implemented by a "rider" on a case by case basis, if local laws permit.
+* '''[[Rowhouse]]''' (USA); also called "'''Terraced home'''" (USA); also called "'''Townhouse'''": 3 or more houses in a row sharing a "party" wall with its adjacent neighbour. In [[New York City]], "''[[Brownstone]]s''" are rowhouses. Rowhouses are typically multiple stories. The term townhouse is currently coming into wider use in the UK, but terraced house (not "terraced home") is more common.
+* '''[[Shophouse]]:''' the name given in [[Southeast Asia]] to a terraced two to five story urban building featuring a shop or other public activity on the street level, with residential accommodation on upper floors.
+* '''[[Single Room Occupancy]]''' or '''SRO:''' a studio apartment, usually occurring with a block of many similar apartments, intended for use as [[public housing]]. They may or may not have their own washing, laundry, and kitchen facilities. In the United States, lack of kitchen facilities prevents use of the term "apartment", so such would be classified as a [[boarding house]] or [[hotel]].
+* '''Six-pack:''' In [[New England]] (USA), this refers to a [[stick-built]] block of 6 apartments comprising (duplexed) two three story [[#Triple decker|Triple decker]]s built side by side sharing one wall, a common roof, lot, yards (lawns and gardens, if any), parking arrangements, and basement, but possessing separately metered electric, and separate hot water and heating or air conditioning. In [[Australia]], it refers to a style of apartments that were constructed during the 1960s, 70s and early 80s, usually comprising a single, masonry-built block containing 4 to 8 walk-up apartments (though sometimes, many more), of between 2 and 3 stories in height, with car parking at the side or rear.
+
+{{Anchor|Bachelor apartment}}
+* '''[[Studio apartment]]''' or '''Studio flat''' (UK), or '''Bachelor apartment''' or '''Efficiency apartment:''' a suite with a single room that doubles as living/sitting room and bedroom, with a [[kitchenette]] and bath squeezed in off to one side. The unit is designed for a single occupant or possibly a couple. Especially in Canada and South Africa, also called ''bachelor'', or ''bachelorette'' if very small.
+* '''Tenement:''' a multi-unit dwelling usually of frame construction, quite often brick veneered, made up of several (generally many more than four to six) apartments (i.e. a large apartment building) that can be up to five stories. Tenements do not generally have elevators. In the United States the connotation sometimes implies a run-down or poorly cared-for building. It often refers to a very large apartment building usually constructed during the late 19th to early 20th century era sited in cities or [[company town]]s.
+
+[[Image:Terrace on Lloyd Street South in Moss Side, Manchester.jpg|thumb|250px|Example of late [[Victorian architecture|Victorian]] terrace in [[Moss Side]], [[Manchester]], UK.]]
+
+* '''[[Terraced house]]:''' Since the late 18th century is a style of housing where (generally) identical individual houses are conjoined into rows - a line of houses which abut directly on to each other built with shared party walls between dwellings whose uniform fronts and uniform height created an ensemble that was more stylish than a "''rowhouse''". However this is also the UK term for a "rowhouse" regardless of whether the houses are identical or not.
+** '''[[Back-to-back houses|Back-to-back]]:''' Terraced houses which also adjoin a second terrace to the rear. They were a common form of housing for workers during the [[Industrial Revolution]] in [[England]].
+* '''[[Tower block]]''' or '''Apartment tower''': a high-rise [[apartment building]].
+* '''[[Townhouse]]:''' also called '''Rowhouse''' (US). In the UK, a townhouse is a traditional term for an upper class house in London (in contrast with [[country house]]), and is now coming into use as a term for new terraced houses, which are often three or more stories tall and may include a garage on the ground floor.
+** '''Stacked townhouse:''' Units are stacked on each other; units may be multilevel; all units have direct access from the outside.
+{{Anchor|Three family home|Three family house}}
+* '''Three family home''' or '''Three family house''' — U.S. real estate and advertising term for several configurations of apartment classed dwelling buildings including:
+** '''[[Triple decker]]:''' a three-family apartment house, usually of frame construction, in which all three apartment units are stacked on top of one another. (For additional characteristics, also see [[#Multifamily home features|Multifamily home features]] below.)
+** {{anchor|Two decker}} '''Two decker:''' a two family house consisting of stacked apartments that frequently have similar or identical floor plans. Some two deckers, usually ones starting as single-family homes, have one or both floors sub-divided and are therefore three or four-family dwellings. Some have external stairways giving a totally separate entrance, and some, usually those which have been a single-family house now sub-divided, are similar to the ''Maisonette'' plan but sharing a common external 'main entrance' door and lock, and a main internal hall with stairways letting to the separate apartments. (For additional characteristics, also see [[#Multifamily home features|Multifamily home features]] below.)
+* '''[[Tyneside flat]]:''' a pair of single-storey flats in a two-storey terrace, distinctively with two separate front doors to the street rather than a shared lobby. Notably found on [[Tyneside]], North Eastern England.
+
+{{anchor|Multifamily home features}}
+;Multifamily home features
+::* Tenants usually have some portion of the basement and/or common attic.
+::* Fire regulations strictly require a separate emergency egress for all apartments under U.S. laws and national fire codes.
+::* Utilities are either paid as part of the rent, or (now predominant) the units have separately provided [[furnace|heat]], [[air conditioning]], [[electrical distribution panel]]s and meters, and sometimes (uncommonly) water metering, separating all secondary housing costs by rental unit. Common lighting may or may not be off a separate meter and circuitry in subdivided former single-family dwellings.
+::* Leasehold documents will specify other common factors such as specific parking rights, rights to common spaces such as lawn and gardens on the premises, storage or garage (usually a detached unit, that cannot economically be converted into an additional housing unit) facilities and details such as who has responsibility for upkeep, snow removal, lawn care, and so forth.
+
+* '''[[Tong Lau]](唐樓 / 騎樓):''' A type of [[shophouse]] found in southern China and old parts of Hong Kong. It has shops on the first floor, no basement, no garage and about 3-4 floors. It had to be short for the [[Tong Lau]]s in [[Hong kong]] is very close to the old Kai Tak airport, but it is now a cruise terminal and newer and higher buildings have sprung up there.  The government has also been destroying the old [[Tong Lau]]s and rebuilding.
+* '''[["Toothpick Apartments"]]:''' A type of apartment about 10-20 stories high and usually has one flat on each story. It is very thin, and surrounded by many other shorter buildings ([[Tong Lau]]), therefore nicknamed "[[Toothpick Apartments]]". They exist in [[Hong Kong]], and are mostly private apartments. They have about 1-3 levels of car parks.
+* '''[[Unit (housing)|Unit]]:''' a type of [[Medium-density housing]] found in Australia and New Zealand.
+* '''[[Vatara]]:''' a housing complex, mainly found in urban [[Karnataka]], [[India]], similar to an apartment complex, but with mostly two stories and homes in a row on each floor.
+
+== Movable dwellings ==
+* '''Park home''', also called '''[[Mobile home]]:''' a prefabricated house that is manufactured off-site.
+* '''[[Tent]]:''' usually a lightweight, moveable structure.
+* '''[[Travel trailer]]''' or '''Caravan'''
+* '''[[Yurt]]''' or '''Ger''': used by [[nomad]]s in the [[steppe]]s of [[Central Asia]].
+* '''[[Houseboat]]:''' includes '''float houses'''

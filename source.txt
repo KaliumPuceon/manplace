@@ -1,149 +1,277 @@
+-Frame house
+Airey house
+Airplane
+aluminum siding
+American Colonial
+American Craftsman house
+American Foursquare
+apartment
+Apartment
+Apartment building
+Apartment hotel
+Aul
+Automobile
+Back-to-back houses
+Barn
+Barndominium
 Barracks
+Basement apartment
+Bay-and-gable
+Beach hut
 Bed and breakfast
+Bedsit
+Bell tent
+Bender tent
+Bivouac sack
+Bivouac shelter
+Blanket
 Boarding house
+Boat
 Bothy
+Boutique hotel
+Brownstone
 Bungalow
+Bus
+Bus station
+Bus stop
+Byre-dwelling
+California Bungalow
+Campervan
+Campsite
+Cape Cod
+Cape Dutch architecture|Cape Dutch
+Capsule hotel
+Car
+Cardboard box (housing)
+Casino hotel
 Castle
 Cave
-Yaodong
+Cell
 Chalet
+Chalet bungalow
 Château
+Chattel house
+Chicago
 Choultry
+Chum
+Communal apartment
+company town
+Conch house
 Condominium
+Connected farm
 Converted barn
 Cottage
+Council house
 County jail
+Creole cottage
+Cruise ship
+Dacha
+Deck access
+Dogtrot house
 Domus
 Dormitory
 Dugout
+Dumpster
+Duplex house
+Dwór
 Earth house
 Earth sheltering
+Emergency shelter
+Face-me-I-face-you
+Face-to-face
+Farmhouse
 Farm stay
+Faux chateau
+Federal architecture
+Ferry
+Flatshare
 Flophouse
+Florida
+Fly
+French Colonial
+furnace|heat
+Gablefront house
+Gambrel
+garage
+Geestharden house
+Geodesic dome
+Georgian house
+Goahti
+Granny flat
 Guest house
+Hall and parlor house
+Hall house
+Hanok
+Homelessness
+Homeless shelter
 Hospital
 Hospitality service
 Hostal
 Hostel
+Hot air balloon
 Hotel
-Apartment hotel
-Boutique hotel
-Capsule hotel
-Casino hotel
-Love hotel
 House
 Housebarn
+Houseboat
+Housing cooperative
 Housing tenure
-Apartment
-Bedsit
-Communal apartment
-Council house
-Flatshare
-Public housing
-Share house
-Single room occupancy
-Leasehold estate
-Tenancy
 Hut
-Slab hut
+Igloo
+I-house
+Indian vernacular architecture
 Inn
 Insula
+Izba
+Kit house
+Kit houses in North America
+Kohte
+Konak
+Ksar
+Kulla
+Laneway house
+Lavvu
+Leasehold estate
+Linked house
+Loft
 Log cabin
+Log home
 Log house
 Longhouse
+Loue
+Love hotel
+Lustron house
+Manor house
 Mansion
+Manufactured house
+Manufactured housing
+McMansion
+Mews
+Microapartment
 Mini dorm
+Minka
+Mobile home
 Monastery
+Monolithic dome
 Moroccan riad
 Motel
+Mudhif
+Multifamily home
+New England
+Nomadic tents
 Nursing home
+Ocean liner
+Octagon house
+Officetel
+Ontario Cottage
 Orphanage
 Palace
+Pandal
+Passenger car
+Patio home
+Patio house
 Pension
+Penthouse apartment
 Pit-house
+Plank house
+Plattenbau
+Portable building
+Prefabricated building
+Prefabricated house
 Prison
 Prison cell
-Cell
 Psychiatric hospital
 Pub
 Public house
-Inn
+Public housing
+Public transport
+Queenslander
+Quinzhee
+Railroad apartment
+Ramada
+Ranch
+Ranch-style house
+real estate business
+Recreational vehicle
+Refugee camp
 Resort
 Retirement home
-Roundhouse
-Ryokan
-Sanatorium
-Sod house
-Stilt house
-Timeshare
-Train station
-Tree house
-Turbaza
-Underground living
-Vacation rental
-Villa
-Beach hut
-Bivouac shelter
-Emergency shelter
-Igloo
-Mobile home
-Ramada
-Snow cave
-Tent city
-Quinzhee
-Airplane
-Automobile
-Bender tent
-Boat
-Bus
-Campervan
-Campsite
-Car
-Ferry
-Hot air balloon
-Houseboat
-Mobile home
-Portable building
-Public transport
-Recreational vehicle
-RV park
-Ship
-Cruise ship
-Ocean liner
-Spacecraft
-Tent
-Train
-Passenger car
-Sleeping car
-Travel trailer
-Bell tent
-Chum
-Fly
-Goahti
-Kohte
-Lavvu
-Loue
-Nomadic tents
-Pandal
-Sibley tent
-Tarp tent
-Tipi
-Wigwam
-Yurt
-Bivouac sack
-Blanket
 Roof tent
-Sleeping bag
-Tarp tent
-Tarpaulin
-Barn
-Bus station
-Bus stop
-Cardboard box (housing)
-Dumpster
-Homeless shelter
-Refugee camp
+Rooming house
+Roundhouse
+Rowhouse
+RV park
+Ryokan
+Saltbox
+Sanatorium
+San Francisco, CA
+Sears Catalog Home
+Semi-detached
+Shack
+Share house
+Ship
 Shipping container
-Homelessness
+Shophouse
+Shotgun house
+Sibley tent
+Sidesplit
+Single-family detached home
+Single room occupancy
+Single Room Occupancy
+Slab hut
+Sleeping bag
+Sleeping car
+slum
+Snout house
+Snow cave
+Sod house
+Souterrain
+Spacecraft
+Spanish Colonial
+Spanish Colonial Revival architecture
+Split level home
 Squatting
 Stable
+Stilt house
+street
+Studio apartment
+Tarpaulin
+Tarp tent
+Tenancy
+Tent
+Tent city
+Terraced house
+Timeshare
+Tipi
+Tong Lau
+"Toothpick Apartments"
+Tower block
+Tower houses in the Balkans
+townhouse
+Townhouse
+Train
+Train station
+Travel trailer
+Tree house
+Triple decker
+Trullo
+Tudor Revival
+Turbaza
+#Two decker|Two decker
+Tyneside flat
+Underground home
+Underground living
+Unit
+Unit (housing)|Unit
+Upper Lusatian house
+Uthland-Frisian house
+Vacation rental
+Valencia
+Vatara
+Victorian house
+Villa
+Wealden hall house
+Wigwam
+Wimpey house
+Wimpey no-fines house
+Yaodong
+Yurt

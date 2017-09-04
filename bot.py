@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 
 import tweepy
 from keys import *
@@ -9,4 +9,4 @@ auth.set_access_token(access_token, access_secret)
 
 twitter = tweepy.API(auth)
 
-twitter.update_status(status="Test Twitter Post from API: Limited Edition")
+twitter.update_status(status="Test Twitter Post from API: Special Edition")
