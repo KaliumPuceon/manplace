@@ -12,4 +12,4 @@ for k in stor:
     if start>0 and end>0:
         print(k[start+2:end:])
 
-
+raw.close()
