@@ -49,4 +49,4 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
 twitter = tweepy.API(auth)
 
-print(random.choice(prefix_list)+getManPlace().lower())
+twitter.update_status(random.choice(prefix_list)+getManPlace().lower())
