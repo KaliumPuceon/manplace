@@ -5,6 +5,8 @@ from keys import *
 from sys import exit
 import random
 
+
+
 def getManPlace():
     shitfile = open("used.txt","r")
     placefile = open("source.txt","r")
